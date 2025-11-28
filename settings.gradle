@@ -1,0 +1,2 @@
+rootProject.name = "wa-cleaner-module"
+include ':app'
